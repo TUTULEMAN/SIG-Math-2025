@@ -23,3 +23,6 @@ git commit -m "<your-commit-message>"
 git push
 ```
 and create a [pull-request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+
+## Next steps 
+Feel free to tackle any of the PINN models listed or develop one of your own. We do not have to be limited to this however, if you have a more novel way to approach setting up problems like analyzing data to calibrate parameters instead of using static ones, you are free to develop and suggest it and of course, contribute!
