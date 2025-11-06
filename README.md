@@ -4,7 +4,9 @@ This is the repository for ACM's SIG Math for Fall 2025 focusing on solving Part
 
 ## Gallery
 This section will be holding the benchmarks of the trained models as we moving throughtout the semester
-<!--TODO -->
+
+### Heat equation
+![image info](./Gallery/heat_pinn_benchmark.png)
 
 ## Contributing guide 
 If you are interesting in contributing to this. Feel free to ping on the SIG Math channel your GitHub ID and you will be added as a member.
